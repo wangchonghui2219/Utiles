@@ -11,7 +11,9 @@ allprojects {
 
 
 
-compile 'com.github.wangchonghui2219:Utiles:v1.0'
+dependencies {
+	        compile 'com.github.wangchonghui2219:Utiles:2.0'
+	}
 
 
 
