@@ -31,4 +31,11 @@ dependencies {
     compile 'com.lzy.net:okgo:+'
     compile 'com.lzy.net:okrx:+'
     compile 'com.lzy.net:okserver:+'
+    compile 'com.github.bumptech.glide:glide:+'
+    compile files('libs/alipaySdk-20170309.jar')
+    compile 'com.wang.avi:library:+'
+    compile 'com.jakewharton:butterknife-compiler:+'
+    compile 'com.jakewharton:butterknife:+'
+    compile 'com.android.support:recyclerview-v7:+'
+
 }
