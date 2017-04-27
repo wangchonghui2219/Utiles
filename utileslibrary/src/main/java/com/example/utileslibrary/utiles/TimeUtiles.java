@@ -5,11 +5,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @作者 wch
- * @create at
- * @name 时间转换
+ * 事件转换类
  */
-
 public class TimeUtiles {
 
     // 将字符串转为时间戳
