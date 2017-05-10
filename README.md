@@ -1,6 +1,6 @@
 
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -8,11 +8,10 @@ allprojects {
 	}
 
 
+Step 2. Add the dependency
 
-
-
-dependencies {
-	        compile 'com.github.wangchonghui2219:Utiles:2.0'
+	dependencies {
+	        compile 'com.github.wangchonghui2219:Utiles:1.2'
 	}
 
 
